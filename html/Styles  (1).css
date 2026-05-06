@@ -1,0 +1,20 @@
+body {
+    background-color: green;
+    font-family: Arial;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: pink;
+}
+
+p {
+    color: orange;
+}
+
+span {
+    font-weight: bold;
+}
